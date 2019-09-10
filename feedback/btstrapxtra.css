@@ -1,0 +1,18 @@
+body {
+	margin-left: 20px;
+	font-family:Roboto;
+	background-color:#e5f76d; 
+	
+}
+.jumbotron {
+	background-color: #229dab;
+	color:#fff;
+	font-family: "Atomic Age", sans-serif;
+}
+.btn {
+	background-color: purple;
+}
+.form-check{
+	border:2px solid green;
+	margin: 2px;
+}
